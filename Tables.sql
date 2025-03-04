@@ -48,3 +48,5 @@ CREATE TABLE FactOrder (
 --CREATE TABLE DimSubSalida (
     --SalidaID
 --)
+
+--TODO CREAR FACT TABLES 
